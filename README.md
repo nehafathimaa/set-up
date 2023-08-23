@@ -8,7 +8,7 @@ The `setup-java` action provides the following functionality for GitHub Actions 
 - Downloading and setting up a requested version of Java. See [Usage](#usage) for a list of supported distributions.
 - Extracting and caching custom version of Java from a local file.
 - Configuring runner for publishing using Apache Maven.
-- Configuring runner for publishing using Gradle.
+- Configuring runner for publishing using Gradle..
 - Configuring runner for using GPG private key.
 - Registering problem matchers for error output.
 - Caching dependencies managed by Apache Maven.
